@@ -15,15 +15,13 @@ Here are some of the projects I've been working on:
 
 - [Bersinar](https://github.com/andirayunita/Bersinar-iOS): Bersinar is a learning access iOS app for student in the non-profit educational organization Bersinar Project.
 - [Montra](https://github.com/andirayunita/Montra): Montra is a powerful and intuitive expense tracker app built with Swift and SwiftUI for iOS. Take control of your finances, effortlessly manage your monthly expenses, and gain valuable insights into your spending habits.
+- [Guess The Flag](https://github.com/andirayunita/GuessTheFlag): Guess The Flag is a game application that can help users find out the country's flag as well as play games to earn points.
 
 Feel free to explore my repositories for more iOS-related content!
 
 ## Technologies & Tools
 
-- Swift
-- SwiftUI
-- UIKit
-- Xcode
+`Swift` `SwiftUI` `UIKit` `Xcode`
 
 ## Let's Connect! 🚀
 
