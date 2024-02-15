@@ -14,6 +14,8 @@ Welcome to my GitHub profile! I'm passionate about iOS development and creating 
 Here are some of the projects I've been working on:
 
 - [Bersinar](https://github.com/andirayunita/Bersinar-iOS): Bersinar is a learning access iOS app for student in the non-profit educational organization Bersinar Project.
+- [Waifu](https://github.com/andirayunita/waifu-app): Waifu is a generator application to get list of waifus.
+- [TribunNews](https://github.com/andirayunita/TribunNewsApp): TribunNews app in SwiftUI, get news from location based in Indonesia.
 - [Montra](https://github.com/andirayunita/Montra): Montra is a powerful and intuitive expense tracker app built with Swift and SwiftUI for iOS. Take control of your finances, effortlessly manage your monthly expenses, and gain valuable insights into your spending habits.
 - [Guess The Flag](https://github.com/andirayunita/GuessTheFlag): Guess The Flag is a game application that can help users find out the country's flag as well as play games to earn points.
 
